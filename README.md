@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pranjal Kumar Shukla</h1>
-<h3 align="center">I'm a passionate self-taught coder. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I am also an open-source enthusiast and maintainer. I've learned a lot from the open-source community and I love how collaboration and knowledge sharing happen through open-source.
-    • 💼 Any freelance work? Do reach out via email :)
-    • 💬 Ask me about anything; I am happy to help.</h3>
-
+<h3 align="center">I'm a passionate self-taught coder. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I am also an open-source enthusiast and maintainer. I've learned a lot from the open-source community and I love how collaboration and knowledge sharing happen through open-source. 
+    <ul align="center">
+    <li >💼 Any freelance work? Do reach out via email :)</li>
+    <li>💬 Ask me about anything; I am happy to help.</li>
+    </ul>
+</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranjalkumar09" alt="pranjalkumar09" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
