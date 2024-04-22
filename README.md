@@ -17,7 +17,7 @@
 <li>👀 I’m interested in coding, technology, and problem-solving. </li>
 <li>🌱 I’m currently learning Data Structures and Algorithms (DSA). </li>
 <li>💞️ I’m looking to collaborate on open-source projects. </li>
-<li>📫 How to reach me: <a href="coderkumarshukla@email.com"  target="_blank" rel="noreferrer"> mail </a> </li>
+<li>📫 How to reach me: <a href="mailto::coderkumarshukla@email.com" > mail </a> </li>
 <li>😄 Pronouns: He/Him</li>
 <li>⚡ Fun fact: I enjoy exploring new programming languages.</li>
 </ul>
